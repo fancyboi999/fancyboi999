@@ -9,8 +9,10 @@
 ## 🚀 About Me
 
 **AI Engineer**  
-Building smarter agents, breaking dumb limits.  
-Focused on **AI / Agents / RAG**.  
+Focused on **AI / Agents / RAG**. 
+- 🔭 Building **agentic systems** and **RAG pipelines**
+- 🌱 Exploring **tool use, memory, and orchestration**
+- 💬 Ask me about **LLM agents, RAG, or AI workflows**
 📧 **fancyboi999@gmail.com**  
 🧠 **WeChat: fancyboi999**
 
@@ -19,19 +21,6 @@ Focused on **AI / Agents / RAG**.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,docker" />
 </div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fancyboi999&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
-
-## 💡 What I'm Up To
-
-- 🔭 Building **agentic systems** and **RAG pipelines**
-- 🌱 Exploring **tool use, memory, and orchestration**
-- 💬 Ask me about **LLM agents, RAG, or AI workflows**
-- 📫 Reach out: **fancyboi999@gmail.com**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
