@@ -23,5 +23,9 @@ Focused on **AI / Agents / RAG**.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
