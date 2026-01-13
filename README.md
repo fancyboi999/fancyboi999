@@ -16,29 +16,8 @@ Focused on **AI / Agents / RAG**.
 
 ## 🛠️ Tech Arsenal
 
-### 🧠 AI & ML Core
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</div>
-
-### ⚙️ Backend & APIs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</div>
-
-### 🎨 Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
-</div>
-
-### 🗄️ Databases & Storage
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
-</div>
-
-### 🔧 Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,docker" />
 </div>
 
 ## 📈 Contribution Graph
@@ -53,16 +32,6 @@ Focused on **AI / Agents / RAG**.
 - 🌱 Exploring **tool use, memory, and orchestration**
 - 💬 Ask me about **LLM agents, RAG, or AI workflows**
 - 📫 Reach out: **fancyboi999@gmail.com**
-
-## 🤝 Let's Connect
-
-<div align="center">
-  📧 **fancyboi999@gmail.com** &nbsp;•&nbsp; 🧠 **WeChat: fancyboi999**
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
