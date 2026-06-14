@@ -6,6 +6,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
 </div>
 
+<div align="center">
+  <a href="https://trendshift.io/developers/12312" target="_blank"><img src="https://trendshift.io/api/badge/developers/12312" alt="fancyboi999 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
+
 ## 🚀 About Me
 
 **AI Engineer**  
